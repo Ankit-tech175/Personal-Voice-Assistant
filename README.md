@@ -36,7 +36,8 @@ It uses **speech recognition** and **text-to-speech (TTS)** libraries for intera
 
 ## 📸 Screenshot
 
-![Voice Assistant Screenshot](assets/demo.png)
+![Jarvis Demo](assets/demo.png)
+
 
 ---
 
