@@ -36,10 +36,7 @@ It uses **speech recognition** and **text-to-speech (TTS)** libraries for intera
 
 ## 📸 Screenshot
 
-![Jarvis Demo](assets/demo.png)
-
-
----
+![Jarvis Output](https://github.com/Ankit-tech175/Personal-Voice-Assistant/blob/main/assets/demo.png?raw=true)
 
 ## ⚙️ How to Run
 
